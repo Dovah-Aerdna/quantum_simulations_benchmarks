@@ -1,0 +1,15 @@
+bitlen(n)	n	res	time	qubits	depth
+4	9	{'factors': [3], 'successful_counts': 0, 'total_counts': 0}	0.06297731399536133	18	3
+4	15	{'factors': [[3, 5]], 'successful_counts': 2, 'total_counts': 4}	4.655200958251953	18	3
+5	21	{'factors': [[3, 7]], 'successful_counts': 22, 'total_counts': 51}	18.375949144363403	22	3
+5	25	{'factors': [5], 'successful_counts': 0, 'total_counts': 0}	0.00010395050048828125	22	3
+5	27	{'factors': [3], 'successful_counts': 0, 'total_counts': 0}	0.000118255615234375	22	3
+6	33	{'factors': [], 'successful_counts': 0, 'total_counts': 64}	337.12300062179565	26	3
+6	35	{'factors': [[5, 7]], 'successful_counts': 35, 'total_counts': 73}	337.3005051612854	26	3
+6	39	{'factors': [[3, 13]], 'successful_counts': 33, 'total_counts': 75}	336.91473937034607	26	3
+6	45	{'factors': [[3, 5], [5, 9]], 'successful_counts': 42, 'total_counts': 100}	338.45801401138306	26	3
+6	49	{'factors': [7], 'successful_counts': 0, 'total_counts': 0}	0.00011754035949707031	26	3
+6	51	{'factors': [[3, 17]], 'successful_counts': 4, 'total_counts': 8}	337.4179217815399	26	3
+6	55	{'factors': [[5, 11]], 'successful_counts': 38, 'total_counts': 100}	338.12501549720764	26	3
+6	57	{'factors': [], 'successful_counts': 0, 'total_counts': 98}	338.55417466163635	26	3
+6	63	{'factors': [[7, 9]], 'successful_counts': 26, 'total_counts': 52}	337.9680254459381	26	3

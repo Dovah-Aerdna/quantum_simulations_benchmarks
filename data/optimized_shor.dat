@@ -1,0 +1,56 @@
+./shell_script/sim.sh
+Time cost: 437.38172340393066 s
+Overwriting the existing data....
+Time cost: 448.9536147117615 s
+Overwriting the existing data....
+Time cost: 444.0390694141388 s
+Overwriting the existing data....
+Time cost: 455.10004711151123 s
+Overwriting the existing data....
+Time cost: 451.7806541919708 s
+Overwriting the existing data....
+Time cost: 449.6960382461548 s
+Overwriting the existing data....
+Time cost: 455.78163981437683 s
+Overwriting the existing data....
+Time cost: 393.3952579498291 s
+Overwriting the existing data....
+Time cost: 448.53391909599304 s
+Overwriting the existing data....
+Time cost: 445.6596882343292 s
+Overwriting the existing data....
+Time cost: 452.5858645439148 s
+Overwriting the existing data....
+Time cost: 446.9926989078522 s
+Overwriting the existing data....
+Time cost: 454.25661969184875 s
+Overwriting the existing data....
+Time cost: 448.4756963253021 s
+Overwriting the existing data....
+Time cost: 384.7782664299011 s
+Overwriting the existing data....
+Time cost: 394.5065321922302 s
+
+
+
+./shell_script/run.sh
+SimCmp N=15 a=4
+Job Status: job has successfully run
+GPU sim time: 13.34585
+CPU sim time: 8.07227
+SimCmp N=21 a=8
+Job Status: job has successfully run
+GPU sim time: 26.44225
+CPU sim time: 25.76754
+SimCmp N=33 a=10
+Job Status: job has successfully run
+GPU sim time: 384.21511
+CPU sim time: 383.47967
+SimCmp N=35 a=6
+Job Status: job has successfully run
+GPU sim time: 382.45561
+CPU sim time: 382.67029
+SimCmp N=39 a=14
+Job Status: job has successfully run
+GPU sim time: 384.5882
+CPU sim time: 383.38212
